@@ -93,7 +93,7 @@ For Windows 11 (PowerShell):
 ```bash
 .\setup_ai_course.ps1
 ```
-Note: If you get a permissions error, run as administrator the following:
+*Note: If you get a permissions error, run as administrator the following:*
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
