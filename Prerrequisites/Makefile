@@ -1,3 +1,7 @@
+setup:
+	python -m venv venv
+	. venv/bin/activate
+
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
