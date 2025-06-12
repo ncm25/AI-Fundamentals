@@ -19,7 +19,7 @@ Before starting this course, please make sure you meet the following requirement
 - Set up a **virtual environment** for your Python projects (using `venv`, `virtualenv`, or `conda`).
   
   - Example for Windows:
-    ```powershell
+    ```PowerShell
     python -m venv ai-course-env
     .\ai-course-env\Scripts\activate
     ```
@@ -112,23 +112,23 @@ bash setup_ai_course.sh
 
 ## 🛠️ About the Makefile (Optional, Advanced Users)
 
-A `Makefile` is included to help automate setup tasks, such as creating a virtual environment and installing dependencies. This tool is common on Linux and Mac, but **it is optional on Windows**.
+A `Makefile` is included to help automate setup tasks, such as creating a virtual environment and installing dependencies. This tool is commonly available on Linux and Mac, but it is **optional on Windows**.
 
 ### For Most Windows Users (Recommended)
 
 You do **not** need to install `make`.  
 Instead, simply run the commands in each section manually in your Command Prompt or PowerShell, for example:
 
-if the visrtual environment is already not created, run as following:
-```powershell
+If the virtual environment is not already created, run as follows:
+```PowerShell
 python -m venv ai-course-env
 .\ai-course-env\Scripts\activate
 pip install -r requirements.txt
 python -m ipykernel install --user --name=ai-course-env --display-name="Python (AI Course)"
 ```
 
-if the visrtual environment is already created, run as following:
-```powershell
+If the virtual environment is already created, run as follows:
+```PowerShell
 .\ai-course-env\Scripts\activate
 pip install -r requirements.txt
 python -m ipykernel install --user --name=ai-course-env --display-name="Python (AI Course)"
@@ -141,12 +141,12 @@ Option 1: Using Chocolatey (requires administrator privileges)
 - Install [Chocolatey](https://chocolatey.org/install).
 - Open an administrator PowerShell window.
 - Run:
-```powershell
+```PowerShell
 choco install make
 ```
 
 - Then, in your course folder:
-```powershell
+```PowerShell
 make setup
 ```
 
