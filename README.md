@@ -34,6 +34,10 @@
 ---
 ## 👋 Meet Your Instructor
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/78565472?s=400&u=954d8759e9c21163d0e10e069aa12417b6e8cd96&v=4" alt="Welcome to AI Course" width="150" height="150" style="vertical-align: middle; margin-right: 10px;">
+</p>
+
 Hi there 👋 this is Andres Felipe Rojas Parra. Welcome to this learning adventure in Artificial Intelligence and Python. It is a ✨ special ✨ repository for discussing all things related to basic AI and Python.
 
 I’ve spent over 23 years in the tech world, helping teams and organizations in Colombia and Latin America grow with technology. My journey has taken me through various roles, including CTO, IT Manager, and Business Applications Leader, where I have consistently focused on innovation, teamwork, and driving meaningful change through digital transformation.
