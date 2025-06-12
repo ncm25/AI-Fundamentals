@@ -105,5 +105,60 @@ For Linux/Mac:
 ```bash
 bash setup_ai_course.sh
 ```
-This will create the recommended folders and template files (README.md, requirements.txt, Makefile).
+
+*This will create the recommended folders and template files (README.md, requirements.txt, Makefile).*
+
 ---
+
+## 🛠️ About the Makefile (Optional, Advanced Users)
+
+A `Makefile` is included to help automate setup tasks, such as creating a virtual environment and installing dependencies. This tool is common on Linux and Mac, but **it is optional on Windows**.
+
+### For Most Windows Users (Recommended)
+
+You do **not** need to install `make`.  
+Instead, simply run the commands in each section manually in your Command Prompt or PowerShell, for example:
+
+if the visrtual environment is already not created, run as following:
+```powershell
+python -m venv ai-course-env
+.\ai-course-env\Scripts\activate
+pip install -r requirements.txt
+python -m ipykernel install --user --name=ai-course-env --display-name="Python (AI Course)"
+```
+
+if the visrtual environment is already created, run as following:
+```powershell
+.\ai-course-env\Scripts\activate
+pip install -r requirements.txt
+python -m ipykernel install --user --name=ai-course-env --display-name="Python (AI Course)"
+```
+
+### For Advanced Users Who Want to Use the Makefile
+If you are comfortable installing extra tools, you can use make to automate these commands:
+
+Option 1: Using Chocolatey (requires administrator privileges)
+- Install [Chocolatey](https://chocolatey.org/install).
+- Open an administrator PowerShell window.
+- Run:
+```powershell
+choco install make
+```
+
+- Then, in your course folder:
+```powershell
+make setup
+```
+
+Option 2: Using Git Bash
+If you use [Git Bash](https://gitforwindows.org/), it often includes make by default. Just open Git Bash, navigate to your course folder, and use:
+```bash
+make setup
+```
+
+Option 3: GnuWin32 Make
+Download from [GnuWin32 Make](https://gnuwin32.sourceforge.net/packages/make.htm) and add it to your PATH manually (advanced, not recommended for beginners).
+
+|💡 If this sounds too complex, just stick with the manual commands above!
+
+If you have questions or need help with the setup, reach out to the instructor. The goal is to make your learning experience smooth and enjoyable! 🚀
