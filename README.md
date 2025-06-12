@@ -4,29 +4,29 @@
 
 ### 6 sessions, 4 hours each
 
-| Session | Date       | Hour | Topics                                                                                               |
+| Session | Mmodule    | Hour | Topics                                                                                               |
 |---------|------------|------|------------------------------------------------------------------------------------------------------|
-| 1       | Module 1   | 1    | Introduction, Python installation, Jupyter/VSCode, tools and virtual environments                    |
+| 1       | 1          | 1    | Introduction, Python installation, Jupyter/VSCode, tools and virtual environments                    |
 |         |            | 2    | Python basics: data types, lists, dictionaries, operators                                            |
 |         |            | 3    | Control flow, functions, and practical exercises                                                     |
 |         |            | 4    | Introduction to Numpy and Pandas, basic manipulation, data loading and cleaning                      |
-| 2       | Module 2   | 1    | Advanced Pandas: data cleaning, filtering, grouping, statistical summaries                           |
+| 2       | 2          | 1    | Advanced Pandas: data cleaning, filtering, grouping, statistical summaries                           |
 |         |            | 2    | Data visualization with Matplotlib and Seaborn                                                       |
 |         |            | 3    | Mini project: Exploratory Data Analysis (EDA)                                                        |
 |         |            | 4    | Introduction to Machine Learning: key concepts, typical ML workflow                                  |
-| 3       | Module 3   | 1    | Linear Regression: theory and hands-on with Scikit-learn                                             |
+| 3       | 3          | 1    | Linear Regression: theory and hands-on with Scikit-learn                                             |
 |         |            | 2    | Classification: logistic regression, KNN, decision trees, hands-on                                   |
 |         |            | 3    | Integrated practice: regression and classification on real datasets                                  |
 |         |            | 4    | Model validation: train/test split, cross-validation, hyperparameter tuning                          |
-| 4       | Module 4   | 1    | Clustering: K-means theory and practice                                                             |
+| 4       | 4          | 1    | Clustering: K-means theory and practice                                                             |
 |         |            | 2    | Other methods: hierarchical clustering and DBSCAN (concepts and use cases)                           |
 |         |            | 3    | Dimensionality reduction (PCA): theory and practice                                                  |
 |         |            | 4    | Mini project: clustering and PCA on practical datasets                                               |
-| 5       | Module 5   | 1    | Deep Learning: ML/DL differences, neural network architecture, frameworks (Keras/TensorFlow)         |
+| 5       | 5          | 1    | Deep Learning: ML/DL differences, neural network architecture, frameworks (Keras/TensorFlow)         |
 |         |            | 2    | First Deep Learning model: MNIST classification in Keras                                             |
 |         |            | 3    | Intro to Computer Vision: concepts and transfer learning                                             |
 |         |            | 4    | Computer vision hands-on: predictions with pre-trained models                                        |
-| 6       | Module 6   | 1    | Introduction to LLMs (Large Language Models): GPT, Llama, ethics and use cases                       |
+| 6       | 6          | 1    | Introduction to LLMs (Large Language Models): GPT, Llama, ethics and use cases                       |
 |         |            | 2    | RAG (Retrieval Augmented Generation), GenAI: concepts and simple examples                            |
 |         |            | 3    | Introduction to Rust for AI: installation, "Hello World", integration with Python                     |
 |         |            | 4    | Final project, course wrap-up, Q&A, and resources for further learning                               |
