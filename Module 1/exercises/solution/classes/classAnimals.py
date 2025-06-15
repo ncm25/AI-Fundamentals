@@ -1,3 +1,9 @@
+'''Module 1: Classes
+   Exercise: Animals
+   Provided by: Msc. PgP Andrés Felipe Rojas Parra
+   Date: 2025-06-01
+   Description: This module defines a class for representing animals with various attributes and methods.'''
+
 import numpy as np
 
 class Animals:
