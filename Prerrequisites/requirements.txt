@@ -4,7 +4,12 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
+jupyter
 ipykernel
+ipython
+notebook
+scipy
+statsmodels
 opencv-python
 Pillow
 imgaug
