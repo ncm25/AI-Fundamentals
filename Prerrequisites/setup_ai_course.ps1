@@ -1,6 +1,6 @@
 # Create directory structure for AI Python course
 
-$root = "ai_python_course"
+$root = "AI-Fundamentals"
 $folders = @("notebooks", "data", "src", "results")
 
 if (!(Test-Path -Path $root)) {

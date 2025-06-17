@@ -4,10 +4,11 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
-jupyter
+jupyterlab
+notebook
+ipywidgets
 ipykernel
 ipython
-notebook
 scipy
 statsmodels
 opencv-python
@@ -23,3 +24,4 @@ requests
 unstructured
 pdfplumber
 tqdm
+setuptools
