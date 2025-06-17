@@ -25,3 +25,6 @@ unstructured
 pdfplumber
 tqdm
 setuptools
+pytest
+black
+pylint
