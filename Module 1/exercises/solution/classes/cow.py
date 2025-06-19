@@ -1,4 +1,4 @@
-from classAnimals import Animals
+from animals import Animals
 
 class Cow(Animals):
     def __init__(self, name, age, gender, color, is_dairy):
