@@ -1,6 +1,19 @@
 setup:
-	python -m venv venv
-	. venv/bin/activate
+	# Makefile for setting up the environment and running tests running in codespace or linux
+	python -m venv ~/ai-course-env
+	echo 'if [ -d "$$HOME/ai-course-env" ]; then source "$$HOME/ai-course-env/bin/activate"; fi' >> ~/.bashrc
+	
+	#. ~/ai-course-env/bin/activate
+
+setup-windows:
+	# Makefile for setting up the environment and running tests in Windows
+	python -m venv ai-course-env
+
+config-env: setup
+	. ~/ai-course-env/bin/activate && pip install --upgrade pip && pip install -r requirements.txt
+
+config-windows-env: setup-windows
+    powershell -Command ".\ai-course-env\Scripts\Activate.ps1; pip install --upgrade pip; pip install -r requirements.txt"
 
 install:
 	pip install --upgrade pip &&\
@@ -29,3 +42,4 @@ lint:
 	pylint --disable=R,C *.py
 
 all: install lint test format
+

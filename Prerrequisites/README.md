@@ -114,6 +114,8 @@ bash setup_ai_course.sh
 
 A `Makefile` is included to help automate setup tasks, such as creating a virtual environment and installing dependencies. This tool is commonly available on Linux and Mac, but it is **optional on Windows**.
 
+### *Be sure that you are in the `Prerrequisites` folder before running pip install -r requirements.txt. To activate the virtual environment, be sure that you are in the root folder where the virtual environment was created.*
+
 ### For Most Windows Users (Recommended)
 
 You do **not** need to install `make`.  
@@ -137,6 +139,8 @@ python -m ipykernel install --user --name=ai-course-env --display-name="Python (
 ### For Advanced Users Who Want to Use the Makefile
 If you are comfortable installing extra tools, you can use make to automate these commands:
 
+### *Be sure that you are in the `Prerrequisites` folder before running make config-windows-env. To activate the virtual environment, ensure you are in the root folder where the virtual environment will be created. The virtual environment will be created in the folder where you will run the make config-windows-env.*
+
 Option 1: Using Chocolatey (requires administrator privileges)
 - Install [Chocolatey](https://chocolatey.org/install).
 - Open an administrator PowerShell window.
@@ -145,15 +149,15 @@ Option 1: Using Chocolatey (requires administrator privileges)
 choco install make
 ```
 
-- Then, in your course folder:
+- Then, in your course folder Prerrequisites, run:
 ```PowerShell
-make setup
+make config-windows-env
 ```
 
 Option 2: Using Git Bash
-If you use [Git Bash](https://gitforwindows.org/), it often includes make by default. Just open Git Bash, navigate to your course folder, and use:
+If you use [Git Bash](https://gitforwindows.org/), it often includes make by default. Just open Git Bash, navigate to your course folder Prerrequisites, and use:
 ```bash
-make setup
+make config-windows-env
 ```
 
 Option 3: GnuWin32 Make
