@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOT="ai_python_course"
+ROOT="AI-Python-Course"
 FOLDERS=("notebooks" "data" "src" "results")
 
 mkdir -p $ROOT
@@ -12,4 +12,4 @@ touch "$ROOT/README.md"
 touch "$ROOT/requirements.txt"
 touch "$ROOT/Makefile"
 
-echo "Directory structure created successfully!"
+echo "The directory AI-Python-Course and its structure were created successfully!"
