@@ -19,8 +19,7 @@ Before starting this course, please make sure you meet the following requirement
 
   if you cannot install VSCode or PyCharm, you can use **GitHub Codespaces** to run the course code online. When you open the course repository, you can click on the "Code" button and select "Open with Codespaces" to create a new codespace. This will give you a full VSCode environment in the cloud, where you can run Python code and Jupyter notebooks without any local setup.
 
-  When we begin the Deep Leaning section, you can also use **Google Colab** to run the code. Google Colab is a free Jupyter notebook environment that runs in the cloud and is particularly useful for deep learning tasks. You can access it at [Google Colab](https://colab.research.google.com/). Or you will need to install the required packages in your local environment and run the code in VSCode.
-
+  When we begin the Deep Learning section, you can also use Google Colab to run the code. Google Colab is a free Jupyter notebook environment that runs in the cloud and is particularly useful for deep learning tasks. You can access it at [Google Colab](https://colab.research.google.com/). Alternatively, if you don't have access to Google Colab, you will need to install the required packages in your local environment and run the code in VS Code.
 
 ### 3. Jupyter Notebook
 - Install **Jupyter Notebook** (via Anaconda, Miniconda, or pip).
