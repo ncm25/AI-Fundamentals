@@ -5,11 +5,22 @@ Before starting this course, please make sure you meet the following requirement
 ### 1. Python Installation
 - Install **Python 3.12** or above.  
   [Download Python here](https://www.python.org/downloads/)
+- ***If you have a github account, you can also fork the course repository and you can use the **GitHub Codespaces** feature to run the course code online. This allows you to work in a full VSCode environment in the cloud without needing to install Python locally.***
 
 ### 2. Code Editor
 - Install a code editor such as **VSCode** (recommended) or **PyCharm**.
   - [Download VSCode](https://code.visualstudio.com/)
   - [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
+  - **VSCode** is recommended for its simplicity and wide range of extensions, including Jupyter support.
+- Codespaces: If you prefer an online environment, you can use **GitHub Codespaces** or **Google Colab**.
+  - GitHub Codespaces: https://github.com/user/repository/codespaces
+  - Google Colab: https://colab.research.google.com/
+  - **github Codespaces** provides a full VSCode experience in the cloud, while **Google Colab** is great for quick experiments and sharing notebooks.
+
+  if you cannot install VSCode or PyCharm, you can use **GitHub Codespaces** to run the course code online. When you open the course repository, you can click on the "Code" button and select "Open with Codespaces" to create a new codespace. This will give you a full VSCode environment in the cloud, where you can run Python code and Jupyter notebooks without any local setup.
+
+  When we begin the Deep Leaning section, you can also use **Google Colab** to run the code. Google Colab is a free Jupyter notebook environment that runs in the cloud and is particularly useful for deep learning tasks. You can access it at [Google Colab](https://colab.research.google.com/). Or you will need to install the required packages in your local environment and run the code in VSCode.
+
 
 ### 3. Jupyter Notebook
 - Install **Jupyter Notebook** (via Anaconda, Miniconda, or pip).
