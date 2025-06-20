@@ -12,8 +12,8 @@ setup-windows:
 config-env: setup
 	. ~/ai-course-env/bin/activate && pip install --upgrade pip && pip install -r requirements.txt
 
-config-windows-env: setup-windows
-    powershell -Command ".\ai-course-env\Scripts\Activate.ps1; pip install --upgrade pip; pip install -r requirements.txt"
+#config-windows-env: setup-windows
+#    powershell -Command ".\ai-course-env\Scripts\Activate.ps1; pip install --upgrade pip; pip install -r requirements.txt"
 
 install:
 	pip install --upgrade pip &&\
