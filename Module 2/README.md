@@ -113,9 +113,9 @@ All datasets are included in the `Module 2/data/` folder:
 
 | File                   | Description                         | Rows     |
 |------------------------|-------------------------------------|----------|
-| 1.movie.csv            | [MovieLens Sample](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/1.movie.csv)                      | ~9,000   |
+| 1.movie.csv            | [MovieLens Sample](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/1.movie.csv)                      | ~1,600   |
 | 1.ratings.csv          | [User-movie Ratings](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/1.ratings.csv)                  | ~100,000 |
-| 1.user.csv             | [Users demographic data](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/1.user.csv)               | ~6,000   |
+| 1.user.csv             | [Users demographic data](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/1.user.csv)               | ~954   |
 | 2.Titanic-Dataset.csv  | [Titanic passenger manifest](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/2.Titanic-Dataset.csv)          | ~890     |
 | 3.CardioGoodFitness.csv| [Consumer fitness product data](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/3.CardioGoodFitness.csv)       | ~180     |
 | 4.Diamonds.csv         | [Diamond characteristics and prices](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/data/4.Diamonds.csv)  | ~54,000  |
@@ -124,7 +124,7 @@ All datasets are included in the `Module 2/data/` folder:
 
 ### 🧠 Assignments
 
-- 🧩 Assignments are included at the end of each notebook. 
+- 🧩 Assignments for this module. 
   - The [2. PythonForDataVisualiztion.pdf](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/exercises/requested/2.%20PythonForDataVisualization.pdf) file contains the information for assignment 1, and you must to use this [Notebook](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/exercises/requested/notebooks/DataVisualizationWithPythonMatplotlibAndSeaborn.ipynb)
   - The [3. ExploratoryDataAnalysisWithPythonAndPandas.pdf](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/exercises/requested/3.%20ExploratoryDataAnalysisWithPythonAndPandas.pdf) file contains the information for assignment 2, and you must to use this [Notebook](https://github.com/arojaspa76/AI-Fundamentals/blob/main/Module%202/exercises/requested/notebooks/DataVisualizationWithPythonMatplotlibAndSeaborn.ipynb)
 
