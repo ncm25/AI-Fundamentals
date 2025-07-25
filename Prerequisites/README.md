@@ -34,7 +34,7 @@ Before starting this course, please make sure you meet the following requirement
     .\ai-course-env\Scripts\activate
     ```
     
-    Please ctrl + click on the image below to watch the video on setting up the virtual environment for Python in Windows 11. 
+    Please **<u>ctrl + click</u>** on the image below to watch the video on setting up the virtual environment for Python in Windows 11. 
     
     [AI Fundamentals Bootcamp - Instalación de prerrequisitos de python para Windows 11.](https://youtu.be/fOqisr0Sazk?si=IJ1rnnu4iEKHpvNU)
 
