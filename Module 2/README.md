@@ -55,24 +55,28 @@ module_02/
 │   └── 4.Diamonds.csv
 │
 ├── exercises/
-│   └── requested/
-│       ├── data/
-│       │   ├── crypto_daily_prices.csv
-│       │   ├── crypto_daily_returns.csv
-│       │   ├── stock_data.csv
-│       │   ├── stocks_daily_returns.csv
-│       │   └── supermarket_sales.csv
-│       │
-│       ├── notebooks/
-│       │   ├── DataVisualizationWithPythonMatplotlibAndSeaborn.ipynb
-│       │   └── ExerciseEDA.ipynb
-│       │
-│       ├── module_02_quiz.md
-│       ├── 2. PythonForDataVisualization.pdf
-│       └── 3. ExploratoryDataAnalysisWithPythonAndPandas.pdf
+│   ├── requested/
+│   │   ├── data/
+│   │   │   ├── crypto_daily_prices.csv
+│   │   │   ├── crypto_daily_returns.csv
+│   │   │   ├── stock_data.csv
+│   │   │   ├── stocks_daily_returns.csv
+│   │   │   └── supermarket_sales.csv
+│   │   │
+│   │   ├── notebooks/
+│   │   │   ├── DataVisualizationWithPythonMatplotlibAndSeaborn.ipynb
+│   │   │   └── ExerciseEDA.ipynb
+│   │   │
+│   │   ├── module_02_quiz.md
+│   │   ├── 2. PythonForDataVisualization.pdf
+│   │   └── 3. ExploratoryDataAnalysisWithPythonAndPandas.pdf
+│   │
+│   └── solutions
+│       ├── 1. module_02_quiz_solution.md
+│       ├── DataVisualizationWithPythonMatplotlibAndSeaborn.ipynb
+│       └── ExerciseEDA.ipynb 
 │
-├── solutions/
-│   └── README.md
+└── README.md
 ```
 
 ---
