@@ -38,7 +38,7 @@ Before starting this course, please make sure you meet the following requirement
     
     [AI Fundamentals Bootcamp - Instalación de prerrequisitos de python para Windows 11.](https://youtu.be/fOqisr0Sazk?si=IJ1rnnu4iEKHpvNU)
 
-    <a href="https://youtu.be/fOqisr0Sazk">
+    <a href="https://youtu.be/fOqisr0Sazk" alt="_blank">
       <img src="https://i.imgur.com/GcRenJg.png" alt="AI Fundamentals Bootcamp - Instalación de prerrequisitos de python para Windows 11." width="400"/>
     </a>
 
