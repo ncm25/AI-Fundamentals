@@ -33,10 +33,10 @@ Before starting this course, please make sure you meet the following requirement
     python -m venv ai-course-env
     .\ai-course-env\Scripts\activate
     ```
+
     <a href="https://youtu.be/fOqisr0Sazk">
       <img src="https://1drv.ms/i/c/424b5ec9ca65444c/EV-S9fJKR31FmJdhECCmCuoBMVbwHGfut_HZrHeAXXqs8Q?e=xcFWeB" alt="Paso a paso: Visualización de Datos con Python" width="400"/>
     </a>
-
 
   - Example for Linux/Mac/Codespaces:
     ```bash
